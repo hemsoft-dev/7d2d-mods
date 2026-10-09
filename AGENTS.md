@@ -4,9 +4,9 @@
 
 This repository contains mods for **7 Days to Die V2.5** (PC/Steam). All mods use **Harmony** for runtime patching and target **.NET Framework 4.8**.
 
-**Repository**: https://github.com/fhemmer/7d2d-mods
+**Repository**: https://github.com/hemsoft-dev/7d2d-mods
 **Local Path**: `D:\github\HemSoft\7d2d-mods`
-**SSH Remote**: `git@github-personal1:fhemmer/7d2d-mods.git`
+**SSH Remote**: `git@github-personal1:hemsoft-dev/7d2d-mods.git`
 
 ## Game Installation
 

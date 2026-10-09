@@ -84,7 +84,7 @@ Position is saved and persists across game sessions!
 Developed by [b]HemSoft Developments[/b]
 Inspired by inventory management features from games like Terraria
 
-[url=https://github.com/fhemmer/7d2d-mods]Source Code on GitHub[/url]
+[url=https://github.com/hemsoft-dev/7d2d-mods]Source Code on GitHub[/url]
 
 [size=4][b]Changelog[/b][/size]
 
